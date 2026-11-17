@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Semana 10 · GeoExplora OpenStreetMap (Flutter)
 
 Segunda versión de la práctica de Desarrollo Móvil Integral. **Sin Google Cloud, tarjeta bancaria, API Key ni prepago.** Esta variante conserva el reto funcional; **no cumple literalmente el requisito del docente de usar google_maps_flutter / Maps SDK ni de restringir una API Key de Google**. Pide autorización para usar la alternativa.
@@ -65,3 +66,7 @@ Cambia emulator-5554 por el ID real mostrado en flutter devices. Para crear un A
 El ZIP no crea automáticamente repositorios externos. Completa el reporte en docs/REPORTE_TECNICO.md con capturas y URL real.
 
 **Nota de verificación:** En el entorno de creación no se dispone de Flutter SDK. Por ello la compilación y ejecución deben comprobarse en tu computadora con los comandos indicados.
+=======
+# semana10-geolocalizacion-flutter
+Práctica Semana 10 - Geolocalización en tiempo real con Flutter y OpenStreetMap
+>>>>>>> d56492b369efb042f3c288db8121a8176de7588b
